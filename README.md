@@ -1,23 +1,35 @@
-# Public Transport Accessibility Analysis in Setagaya
+# 東京における公共交通アクセスと都市構造の空間分析
 
-GIS portfolio project for analyzing public transport accessibility,
-population distribution, land use, and human-flow data in Setagaya, Tokyo.
+## Overview
 
-## Day 1: GIS Fundamentals
+## Research Question
 
-- Set up QGIS
-- Learned vector and raster data models
-- Craeted a GeoPackage point layer
-- Worked with attribute tables
-- Compared EPSG:4326 and EPSG:6677
-- Reprojected vector data
-- Created and exported a basic map
+人口が多いにもかかわらず、鉄道駅へのアクセス性が低い地域はどこか？
+
+## Data
+
+- 人口データ
+- 鉄道駅データ
+- 土地利用データ
+- 人流データ
+
+## Methods
+
+- Buffer analysis
+- Spatial join
+- Overlay analysis
+- Exploratory statistical analysis
+
+## Results
 
 ## Tools
 
 - QGIS
-- GeoPackage
+- Python
+- GeoPandas
+- pandas
+- statsmodels
 
-## Status
+## Limitations
 
-Work in progress...
+## Repository Structure

@@ -1,0 +1,4 @@
+*.gpkg-wal
+*.gpkg-shm
+*.gpkg-journal
+QGIS-Sample-Data-master
