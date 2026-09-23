@@ -1,6 +1,7 @@
 *.gpkg-wal
 *.gpkg-shm
 *.gpkg-journal
+data/processed/day06.gpkg
 QGIS-Sample-Data-master
 docs/study_guide
 data/raw
