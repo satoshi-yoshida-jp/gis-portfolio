@@ -1,0 +1,10 @@
+{
+  "input": "data/processed/mesh_analysis_500m.csv",
+  "rows": 69,
+  "unique_mesh_ids": 69,
+  "p75_used": 4420,
+  "p75_linear_check": 4420.0,
+  "pandas_version": "3.0.6",
+  "main_count": 4,
+  "reference_count": 2
+}

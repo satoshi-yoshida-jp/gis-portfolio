@@ -1,7 +1,13 @@
 *.gpkg-wal
 *.gpkg-shm
 *.gpkg-journal
+.DS_Store
 data/processed/day06.gpkg
-QGIS-Sample-Data-master
-docs/study_guide
-data/raw
+docs/study_guide/
+docs/note.md
+docs/summary.qmd
+docs/.quarto/
+docs/*.docx
+data/raw/
+.venv/
+__pycache__/

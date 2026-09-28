@@ -1,0 +1,7 @@
+﻿mesh_id,population,station_dist_m,boundary_status,access_class,candidate_class
+533944551,6853,968.4,inside,outside_800m,main
+533944542,6535,864.6,inside,outside_800m,main
+533944521,5130,1059.1,boundary,outside_800m,reference
+533944553,4714,1394.2,inside,outside_800m,main
+533944564,4601,1334.9,boundary,outside_800m,reference
+533944544,4500,1324.2,inside,outside_800m,main
