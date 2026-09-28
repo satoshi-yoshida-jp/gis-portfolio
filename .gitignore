@@ -4,10 +4,8 @@
 .DS_Store
 data/processed/day06.gpkg
 docs/study_guide/
-docs/note.md
-docs/summary.qmd
-docs/.quarto/
 docs/*.docx
 data/raw/
+.quarto/
 .venv/
 __pycache__/
