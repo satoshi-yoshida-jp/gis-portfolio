@@ -8,4 +8,4 @@ docs/*qmd
 data/raw/
 .quarto/
 .venv/
-__pycache__/ß
+__pycache__/
