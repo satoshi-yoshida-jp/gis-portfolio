@@ -2,10 +2,10 @@
 *.gpkg-shm
 *.gpkg-journal
 .DS_Store
-data/processed/day06.gpkg
 docs/study_guide/
 docs/*.docx
+docs/*qmd
 data/raw/
 .quarto/
 .venv/
-__pycache__/
+__pycache__/ß
